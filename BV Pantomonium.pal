@@ -1,0 +1,20 @@
+; Generated Color Table with Tools by Garrett Helms for WxTools.org
+Product: BV
+Units: KTS
+Scale: 1.9426
+Step: 10
+RF: 64 64 64
+
+SolidColor: -80 239 96 163
+Color: -70 230 56 136
+Color: -55 250 70 22
+Color: -40 176 28 46
+Color: -20 101 48 36
+SolidColor4: -10 66 85 99 128
+SolidColor4: 0 140 143 145 0
+SolidColor4: 10 66 85 99 128
+Color: 20 20 77 41
+Color: 40 79 140 13
+Color: 55 151 215 0
+Color: 70 73 197 177
+SolidColor: 80 158 201 227
