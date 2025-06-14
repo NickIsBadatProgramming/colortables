@@ -2,7 +2,7 @@
 Product: BV
 Units: KTS
 Scale: 1.9426
-Step: 10
+Step: 1
 RF: 64 64 64
 
 SolidColor: -80 239 96 163
