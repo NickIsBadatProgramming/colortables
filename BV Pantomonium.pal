@@ -5,16 +5,16 @@ Scale: 1.9426
 Step: 1
 RF: 64 64 64
 
-SolidColor: -80 239 96 163
-Color: -70 230 56 136
-Color: -55 250 70 22
-Color: -40 176 28 46
-Color4: -20 101 48 36 191
-SolidColor4: -10 66 85 99 160
-SolidColor4: 0 140 143 145 0
+SolidColor: 80 239 96 163
+Color: 70 230 56 136
+Color: 55 250 70 22
+Color: 40 176 28 46
+Color4: 20 101 48 36 191
 SolidColor4: 10 66 85 99 160
-Color4: 20 20 77 41 191
-Color: 40 79 140 13
-Color: 55 151 215 0
-Color: 70 73 197 177
-SolidColor: 80 158 201 227
+SolidColor4: 0 140 143 145 0
+SolidColor4: -10 66 85 99 160
+Color4: -20 20 77 41 191
+Color: -40 79 140 13
+Color: -55 151 215 0
+Color: -70 73 197 177
+SolidColor: -80 158 201 227
